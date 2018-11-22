@@ -1,0 +1,29 @@
+[RF001] = O sistema deve cadastrar usuário com seus respectivos dados (nome e e-mail);
+[RF002] = O sistema deve ter um feed com notícias sobre os filmes dentre as preferências do usuário;
+[RF003] = O sistema deve ter preferências de categorias para os usuários escolherem;
+[RF004] = O sistema deve ter preferências de atores para os usuários escolherem;
+[RF005] = O sistema deve ter preferências de diretores para os usuários escolherem;
+
+[RF006] = O sistema deve integrar-se com um banco de dados contendo todos os filmes;
+[RF007] = O sistema deve informar ranking de filmes mais procurados;
+[RF008] = O sistema deve informar ranking de filmes com melhores notas;
+[RF009] = O sistema deve informar próximos filmes a serem lançados;
+[RF010] = O sistema deve informar a duração dos filmes;
+[RF011] = O sistema deve pesquisar sobre filmes;
+[RF012] = O sistema deve consultar histórico de busca por filmes;
+[RF013] = O sistema deve conter entrevistas a respeito dos filmes;
+[RF014] = O sistema deve informar o local de exibição dos filmes em cartaz;
+[RF015] = O sistema deve informar o período de exibição dos filmes em cartaz;
+[RF016] = O sistema deve informar data de estreia dos filmes;
+
+[RF017] = O sistema deve enviar notificações para clientes cadastrados;
+[RF018] = O sistema deve conter preferências de que tipos filmes o usuário deseja receber notificações sobre (selecionadas por categorias como terror ou ação);
+[RF019] = O sistema deve ter a opção se usuário deseja receber notificações sobre trailers
+
+
+
+[RNF001] = O sistema deverá estar disponível em todas as plataformas móveis.
+[RNF002] = O sistema deverá possuir uma versão web e ser responsivo.
+[RNF003] = No sistema Android o aplicativo deverá estar disponível em todas as versões a partir da 2.1.
+[RNF004] = O sistema deverá possuir fácil usabilidade com interface simples.
+[RNF005] = O sistema deverá estar apto a receber atualizações.
